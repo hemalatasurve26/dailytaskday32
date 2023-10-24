@@ -1,0 +1,36 @@
+.App {
+  text-align: center;
+}
+
+.add-user {
+  display: flex;
+  flex-direction: column;
+  margin-left: 100px;
+  gap: 20px;
+  width: 700px;
+}
+
+.add-button {
+  /* text-align: center; */
+  margin-left: 400px !important;
+  margin-top: 30px !important;
+  width: 200px;
+}
+
+.dashboard {
+  margin-top: 225px;
+  margin-left: 300px;
+}
+
+.student-login {
+  width: 300px;
+  height: 50px;
+  margin-bottom: 30px !important;
+  background-color: rgb(149, 9, 90) !important;
+}
+
+.teacher-login {
+  width: 300px;
+  height: 50px;
+  background-color: rgb(149, 9, 90) !important;
+}
